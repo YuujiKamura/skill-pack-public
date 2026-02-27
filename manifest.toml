@@ -1,0 +1,693 @@
+name = "shared-skillset-public"
+version = "1.0"
+description = "Synced from ~/.claude/skills (source of truth)"
+created_at = "2026-02-27T07:37:52.805883100Z"
+
+[source]
+conversations = 0
+domains = 114
+patterns = 951
+
+[[skills]]
+slug = "3week-schedule-chart"
+domain = "3週間工程表チャート作成"
+pattern_count = 9
+content_hash = "6826dc8414c24628d9015eea64dc7f6c423d481ba9ae8463ee3a9fec11f9c7c1"
+
+[[skills]]
+slug = "agent-best-practices"
+domain = "AIコーディングエージェント ベストプラクティス"
+pattern_count = 16
+content_hash = "db797edefa31afd486667fc7b4baa50a83dbe934dc1cbcce03d6316cc0d8a110"
+
+[[skills]]
+slug = "ai-interaction"
+domain = "AIとの対話における洞察"
+pattern_count = 5
+content_hash = "641b8ed4c00040be472b49b838de713b499fee9d44471cb1d782fb341e9821ef"
+
+[[skills]]
+slug = "api-cost-estimator"
+domain = "AI API コスト見積もりフレームワーク"
+pattern_count = 7
+content_hash = "107c53c1456de76658fd47155736084d5d9a418c2be749e701a79db4c8297085"
+
+[[skills]]
+slug = "api-request-tracker"
+domain = "API Request Tracker パターン"
+pattern_count = 8
+content_hash = "bf856c9f024effc53795ab3a5e686484070242eb6e45c6b127f467b3fc5c80a0"
+
+[[skills]]
+slug = "artifacts-builder"
+domain = "Artifacts Builder"
+pattern_count = 3
+content_hash = "8455a64e627d203fd7b43df64c83d8870cb98907aae21edce4ec8eeef651d850"
+
+[[skills]]
+slug = "auto-permission"
+domain = "Auto Permission - 許可設定の先回り自動追加"
+pattern_count = 7
+content_hash = "1f3653c6a60555657dbffb07da5acf2167617e6d0c7d34c6a525b7922d13c1d2"
+
+[[skills]]
+slug = "batch-ocr"
+domain = "バッチOCR - フォルダ内画像の文字抽出"
+pattern_count = 6
+content_hash = "6f5b872777719f07bfc4685379c35a5cd72fbb5e7b0ad334cd4e55936e2d0d7f"
+
+[[skills]]
+slug = "brainstorming"
+domain = "Brainstorming Ideas Into Designs"
+pattern_count = 4
+content_hash = "206c63e80d38c57e6afc657296332b1d0ff75572435d75c079e7407b26762ecd"
+
+[[skills]]
+slug = "brand-guidelines"
+domain = "Anthropic Brand Styling"
+pattern_count = 4
+content_hash = "1120b3769e2985cefb3d25be981b1f914abeba57ae079b83c20c666c164fa9fe"
+
+[[skills]]
+slug = "canvas-design"
+domain = "canvas-design"
+pattern_count = 5
+content_hash = "a1f288079624402f30682753c1d43920b6664785698d21d3e7aa197450a6448b"
+
+[[skills]]
+slug = "changelog-generator"
+domain = "Changelog Generator"
+pattern_count = 9
+content_hash = "878f618750c387af083414eb6d16d0f0f673805a75b6cf243e9fbc73da663985"
+
+[[skills]]
+slug = "claude-code-guide"
+domain = "Claude Code 初心者向けガイド"
+pattern_count = 20
+content_hash = "0d5e0cbc7bc18d7cfebd0a48a2ca26efb2b562f3f36349961bdab0e7b8fe534a"
+
+[[skills]]
+slug = "codex-delegation"
+domain = "Codex MCP 委譲スキル"
+pattern_count = 5
+content_hash = "0ed26b00c658258ae97dbb191d69e4f7ac279476eb4688d5f5c8189a671fcbaa"
+
+[[skills]]
+slug = "competitive-ads-extractor"
+domain = "Competitive Ads Extractor"
+pattern_count = 18
+content_hash = "9ffb68c8ddcfb5594b60c9cf5c58f1810175707d897a8e9e36acbae5154f2891"
+
+[[skills]]
+slug = "connect"
+domain = "Connect"
+pattern_count = 9
+content_hash = "b26af6b3320dd48d855d8ac54dc45ea19f6a8cccb4d214f9ec6667ebb1b79e24"
+
+[[skills]]
+slug = "connect-apps"
+domain = "Connect Apps"
+pattern_count = 5
+content_hash = "230e0b8736a74d8df01f0b4eb52475dbcf6a2e199ec539f027ad264b324c7799"
+
+[[skills]]
+slug = "construction-completion"
+domain = "工事完了処理スキル"
+pattern_count = 17
+content_hash = "c6800b2c5504c96d3177eea89d803e9841007a1bf14c81647193792eb84c218b"
+
+[[skills]]
+slug = "construction-docs"
+domain = "工事書類（施工計画書・材料確認願い等）"
+pattern_count = 12
+content_hash = "41975c8992ae27f18d19394524bb63bb55508f99ab33ab6b4dc3c924b6f069de"
+
+[[skills]]
+slug = "construction-hierarchy"
+domain = "工種階層マスタ（construction_hierarchy.csv）"
+pattern_count = 7
+content_hash = "2da5645e909a71fb3d8b2ee3c886910fa62b17668a0f5f1c4aa2d03e8548e9d3"
+
+[[skills]]
+slug = "construction-initial-tasks"
+domain = "舗装工事 初期段階の作業一覧"
+pattern_count = 4
+content_hash = "dc353d02debb9edc88ba2a069fc8dba7be8790bb9faa0ec0e72e904195795595"
+
+[[skills]]
+slug = "construction-spreadsheets"
+domain = "施工計画書・材料確認願いスプレッドシート管理"
+pattern_count = 7
+content_hash = "a6eb9ece2c790cedb3e28523e6d099277e7d57f2ab07f40e1603a031a6afa2e5"
+
+[[skills]]
+slug = "content-research-writer"
+domain = "Content Research Writer"
+pattern_count = 13
+content_hash = "648ccac02f8d9d29d224b52284ab92da78cbc66d3d8086e9c1a9b34e6f840990"
+
+[[skills]]
+slug = "corins"
+domain = "コリンズ（CORINS）XML生成"
+pattern_count = 8
+content_hash = "12de28f94b48fcaa032288ae7daff27a770b5aad0be987ed9d48c76ba83d7dee"
+
+[[skills]]
+slug = "cost-tracker"
+domain = "Cost Tracker パターン"
+pattern_count = 9
+content_hash = "312fd6b8d360408d2f882a96a3dc86d81576a7c161077edb6492ffdc5839f46b"
+
+[[skills]]
+slug = "cross-section"
+domain = "横断図DXF生成"
+pattern_count = 12
+content_hash = "5a4ae3553b28a532233e38c89f098a14a122e8783d63cebaeb4a266b2fb71af3"
+
+[[skills]]
+slug = "cutting-calculation"
+domain = "舗装切削計算書"
+pattern_count = 12
+content_hash = "17b392e628a26e792384e77f84d7634e2ef64dbd5b4f092ec168b7d96be68ff1"
+
+[[skills]]
+slug = "dekigata-chart"
+domain = "出来形管理図表 チャート設定スキル"
+pattern_count = 14
+content_hash = "f6761bdddacee8d64a35fd808ec7ba6e7b38af5b5143baaa03b3186a89ebf53a"
+
+[[skills]]
+slug = "dekigata-normalization"
+domain = "出来形正規化ルール"
+pattern_count = 6
+content_hash = "9e9105878df7847b499bb22c6a9e36a78704f204864ae8432c98bef5e5f628d7"
+
+[[skills]]
+slug = "developer-growth-analysis"
+domain = "Developer Growth Analysis"
+pattern_count = 12
+content_hash = "62a6da4ea9091f9bad24197d5235651d1cafb6e620ea1a0d5f3e8cde6377faac"
+
+[[skills]]
+slug = "dispatching-parallel-agents"
+domain = "Dispatching Parallel Agents"
+pattern_count = 10
+content_hash = "c628917689ccc12ce9991615db6824d44c4fe71f8427cd959560aebe6a1a6476"
+
+[[skills]]
+slug = "document-ai-ocr"
+domain = "Document AI OCR - 高精度PDF文字位置検出"
+pattern_count = 7
+content_hash = "7da28a671ceab4b188f3aaf6de405ba6e11d3d0bdeb2a25424bdfd6d9bf5be5f"
+
+[[skills]]
+slug = "docx"
+domain = "DOCX creation, editing, and analysis"
+pattern_count = 9
+content_hash = "0bd90681fcab2e282025ee14acf508b60bbd6c41ac6c3bf83c0dc14d52c37933"
+
+[[skills]]
+slug = "domain-name-brainstormer"
+domain = "Domain Name Brainstormer"
+pattern_count = 14
+content_hash = "b9728d690b3cf774d8540ea0604dc58daad6c5f2269743223a961e0afbe06a38"
+
+[[skills]]
+slug = "drive-file-auto-update"
+domain = "Google Drive ファイルID自動更新スキル"
+pattern_count = 4
+content_hash = "eefc084053e261b2adfb2fd3053285c71f2cb26d621e8a20895ab316f572d4dc"
+
+[[skills]]
+slug = "email-writing"
+domain = "下請け業者宛てメール作成（見積依頼・施工体制資料依頼）"
+pattern_count = 10
+content_hash = "47800d354b3d0442543d4f8658f2a954670dad361c5174580f31f8a569c030a0"
+
+[[skills]]
+slug = "excel-export"
+domain = "Excel Export パターン"
+pattern_count = 9
+content_hash = "4428261ff8173bf5007de33cc36be20ae4049f8557010aec2e51bc8e3192b5bc"
+
+[[skills]]
+slug = "executing-plans"
+domain = "Executing Plans"
+pattern_count = 6
+content_hash = "d099fa42fd7518f4dafa9f2d51c1c08fce970490d57682b6acd3e7a57bb55b52"
+
+[[skills]]
+slug = "file-organizer"
+domain = "File Organizer"
+pattern_count = 13
+content_hash = "96be370e7a0e5d01d6abbccb6c1ea3129c17d3cb99cc3c1b6dcdbfe9ea588fb2"
+
+[[skills]]
+slug = "finding-duplicate-functions"
+domain = "Finding Duplicate-Intent Functions"
+pattern_count = 6
+content_hash = "fa3782c9d7e583665cd18ff39981d7dc8a7dededb60942b97995653101eb66b3"
+
+[[skills]]
+slug = "finishing-a-development-branch"
+domain = "Finishing a Development Branch"
+pattern_count = 8
+content_hash = "dd2f82c6dc8582b621f9eb57fcb65f557f88eadf872727ac81d0840ae12c504e"
+
+[[skills]]
+slug = "git-security"
+domain = "Git セキュリティ基本ルール"
+pattern_count = 4
+content_hash = "5026f7a471570ac836b8615b492f46becce9e27efe32255f3aae502cdb45c0a2"
+
+[[skills]]
+slug = "gmail"
+domain = "Gmail API スキル集"
+pattern_count = 13
+content_hash = "e58129e44e745c96ab30e7343c8de93c4d2d656ca70ace44bc1f74202934abdb"
+
+[[skills]]
+slug = "google-api"
+domain = "Google Sheets API & Drive API & Slides API スキル集"
+pattern_count = 14
+content_hash = "07eddb8e6ec0f814116d977dfb0130adb41e7f125f09cb321f7ae5e7b4057301"
+
+[[skills]]
+slug = "grid-layout-params"
+domain = "GridLayoutParams パターン"
+pattern_count = 10
+content_hash = "6ecd0b95179e8ccda6e28b001445740bffe5d154e03b115f1688ae5ca3979996"
+
+[[skills]]
+slug = "gsheet-links"
+domain = "Google スプレッドシートリンク収集"
+pattern_count = 6
+content_hash = "2dbae827e95813bb34bac53b790fda1146da717b4e779ecd8e8ca548f01807b4"
+
+[[skills]]
+slug = "hinshitsu-kanri"
+domain = "品質管理総括表 ワークフロー"
+pattern_count = 5
+content_hash = "5c1977d90537bb80d2876dfce96bf94eda6a6608c974488abc5db2569c7552bd"
+
+[[skills]]
+slug = "image-enhancer"
+domain = "Image Enhancer"
+pattern_count = 6
+content_hash = "6c7bbbd640f678b33efd5c46b35f2ae027fca9f710da10a153c296f936a6e69f"
+
+[[skills]]
+slug = "image-picker"
+domain = "ImagePicker コンポーネント"
+pattern_count = 4
+content_hash = "b551b5f217b7c1e6a682b0eece4e59c8476b920b3a0075b241ef2b7382463a03"
+
+[[skills]]
+slug = "internal-comms"
+domain = "internal-comms"
+pattern_count = 3
+content_hash = "067b7587a344a928fc6534ef66b1bcd591fc7c26d207ea7ca3334aeb678d6475"
+
+[[skills]]
+slug = "invoice-organizer"
+domain = "Invoice Organizer"
+pattern_count = 11
+content_hash = "56a8eb1859baa60c945d154222043ea65e8064947ac6ce3f3aee461a2cdb24de"
+
+[[skills]]
+slug = "issue-management"
+domain = "仕様管理フロー"
+pattern_count = 6
+content_hash = "f2f74dd25115e0176f9f904604d99821ade276e56712001b06f479859e1bedc9"
+
+[[skills]]
+slug = "karte-system"
+domain = "カルテシステム設計"
+pattern_count = 7
+content_hash = "b760871151f39e566445e8acb3d85b206049f63fc59ed1f5f2d8f698632bb18c"
+
+[[skills]]
+slug = "kentaikyo-report"
+domain = "建退共加入労働者数報告書（建退共事務受託様式第6号）"
+pattern_count = 9
+content_hash = "b3f18f147aac875fdf1f543daf3e5dfd31a5c2e9301b1aaa8612a8650c082613"
+
+[[skills]]
+slug = "komine-project"
+domain = "小峯2丁目プロジェクト情報"
+pattern_count = 4
+content_hash = "96e4d63d98a4f85175c8eb7d49e85b229fe3e399044e83aea96e035899ded1e9"
+
+[[skills]]
+slug = "lane-markings"
+domain = "区画線調査・集計"
+pattern_count = 8
+content_hash = "400fad26d0794c911299766772e16c7206ba7afebdbeb0e3c07e1c1f502e9ce8"
+
+[[skills]]
+slug = "langsmith-fetch"
+domain = "LangSmith Fetch - Agent Debugging Skill"
+pattern_count = 11
+content_hash = "bf6a7ab27abb3b6eb0afdc5cd682175fba465183b5df35c061f1d45472d3fe97"
+
+[[skills]]
+slug = "lead-research-assistant"
+domain = "Lead Research Assistant"
+pattern_count = 7
+content_hash = "5b6a21b21d4a4bfd3ae0a07746261e0675212c12781e4846a8bb1b1f5386c73f"
+
+[[skills]]
+slug = "localstorage-cache"
+domain = "LocalStorage Cache パターン"
+pattern_count = 7
+content_hash = "3093d5600be445c0e1796854630a3ae8daaeb0ad6d3f74513f22f3570848a913"
+
+[[skills]]
+slug = "matome-index"
+domain = "写真帳まとめ一覧HTML更新スキル"
+pattern_count = 8
+content_hash = "9637b0700bc4f2112bdfad24ffc767be7c44b5edc25aa714d588a636f7e0d40d"
+
+[[skills]]
+slug = "mcp-builder"
+domain = "MCP Server Development Guide"
+pattern_count = 3
+content_hash = "b1010e90adcb8fd6bf57640df34ab6454fbf7e4216e150a4620f7caccadc4e63"
+
+[[skills]]
+slug = "mcp-cli"
+domain = "MCP CLI: On-Demand MCP Server Usage"
+pattern_count = 15
+content_hash = "f9cd31599575a0b4ada2481ffa817e8a8025759c32da49bacf2d8e2a6ed90efe"
+
+[[skills]]
+slug = "meeting-insights-analyzer"
+domain = "Meeting Insights Analyzer"
+pattern_count = 10
+content_hash = "3387fdbbfa12d162580604e6c17e34fc967fc0829e709152f48d0154ce34d403"
+
+[[skills]]
+slug = "modal-form"
+domain = "Modal Form パターン"
+pattern_count = 5
+content_hash = "244b42f9e3cdd58151c06544d920dd0cb35f15f8dc770c60d48fb86609a234ba"
+
+[[skills]]
+slug = "pdf"
+domain = "PDF Processing Guide"
+pattern_count = 7
+content_hash = "38d8559d4899602f82f3560052132aa0c40cfca80203037729756bdb4fb8e0cb"
+
+[[skills]]
+slug = "pdf-check"
+domain = "PDF書類チェックスキル"
+pattern_count = 4
+content_hash = "21a9063ed4c308122a9bf3fcff84f3224034d14f548a722eecd6c616b6930475"
+
+[[skills]]
+slug = "pdf-combine"
+domain = "PDF結合バッチファイル"
+pattern_count = 6
+content_hash = "284132b05cfdfa044a2b85f6d5f8ea148a3f6d17db9ef464b24b363cacf1b849"
+
+[[skills]]
+slug = "pdf-photo-album"
+domain = "写真台帳PDF生成"
+pattern_count = 10
+content_hash = "4e7b31e5e66d503e8a272ed7f34b6f891b3060a9de8c3a9070eddd8005e6c687"
+
+[[skills]]
+slug = "photo-activity-foldering"
+domain = "工事写真を「何をしてるか」で分類する手順"
+pattern_count = 6
+content_hash = "381cf1c1b2ddae2aaf4032d5a627367779953eca4bfb62d4e58b9cc4c081707c"
+
+[[skills]]
+slug = "pptx"
+domain = "PPTX creation, editing, and analysis"
+pattern_count = 9
+content_hash = "b6f25545bfb358739f1532f793458b5dbc87ee009933cb7c306b2d951ab6617f"
+
+[[skills]]
+slug = "prompt-optimizer"
+domain = "プロンプト最適化システム"
+pattern_count = 9
+content_hash = "df965fb05610e42b56aa875706d773304cff9766ae5f3e31426a7708f73f6b6c"
+
+[[skills]]
+slug = "raffle-winner-picker"
+domain = "Raffle Winner Picker"
+pattern_count = 9
+content_hash = "56c7d1103e7f3edc480f652585c6f04b14f650e47037623625fbdd40d1601cb0"
+
+[[skills]]
+slug = "react-best-practices"
+domain = "Vercel React Best Practices"
+pattern_count = 5
+content_hash = "2c1b14bc24343cc6143806c3928adc0cbcc69b0be3bcf8d39b22118ef456afdd"
+
+[[skills]]
+slug = "receiving-code-review"
+domain = "Code Review Reception"
+pattern_count = 14
+content_hash = "c9382e92b8f32363566068ecfed19d3b2651eaf40d3942b24840f839dedfc406"
+
+[[skills]]
+slug = "requesting-code-review"
+domain = "Requesting Code Review"
+pattern_count = 5
+content_hash = "2da31af22a58938ab78f3ee6d5b4687fcca062b923b646459eb52ba72117ef97"
+
+[[skills]]
+slug = "rust-pdf-filler"
+domain = "Rust PDF書き込みスキル"
+pattern_count = 13
+content_hash = "46c49b7cf0eda8d84c59d0977abbb1116f53aaf5dfccbfe1807a396887da6bcd"
+
+[[skills]]
+slug = "rust-wasm-pages"
+domain = "Rust + WASM + Pages WebUI構築"
+pattern_count = 9
+content_hash = "d9c2831a3ce11f4208a9d3f72c61951ddc856f57f8d569c0bf6933f20921aa6d"
+
+[[skills]]
+slug = "sagyouin-meibo"
+domain = "作業員名簿（全建統一様式第5号）"
+pattern_count = 8
+content_hash = "df52925f6e646a58a3c836b62126d36f6967d45e6f9d4bd3ec2747e27ee3fdd5"
+
+[[skills]]
+slug = "sekou-taisei-cache"
+domain = "SekouTaiseiMaker キャッシュ管理スキル"
+pattern_count = 8
+content_hash = "ea486258a0cf2746f618ce97df44fae98eb07d5ee36ce1c8a4da62e5d73e9baf"
+
+[[skills]]
+slug = "sekou-taisei-design"
+domain = "SekouTaiseiMaker 設計思想"
+pattern_count = 4
+content_hash = "063df5fb82f71ba18dcc1f5e22b60b2f435c67637c474c90751f0122c4801041"
+
+[[skills]]
+slug = "sekou-taisei-file-type"
+domain = "SekouTaiseiMaker ファイルタイプ判定スキル"
+pattern_count = 6
+content_hash = "08017db0bb20de07375d7848d15d014c3e39fd07e2d91c6d0c8a5c05cab30bd3"
+
+[[skills]]
+slug = "sekou-taisei-maker"
+domain = "施工体制台帳メーカー"
+pattern_count = 11
+content_hash = "e06cff10ec88c5fd23f0948bf574d4eee5ec5cccd92b2bec947c144bfe2301d7"
+
+[[skills]]
+slug = "skill-creator"
+domain = "Skill Creator"
+pattern_count = 2
+content_hash = "8c0ce23bb87be91f5b0853c2e9815617c3858b63acdddfe5da47d2c2d3a60816"
+
+[[skills]]
+slug = "skill-management"
+domain = "スキル管理ルール"
+pattern_count = 8
+content_hash = "accbf0eaebdb32dc13c70f18a51a22bb840fe5160796e606190da0880dd72a61"
+
+[[skills]]
+slug = "skill-share"
+domain = "skill-share"
+pattern_count = 6
+content_hash = "490d49b6be9169c3e992b2ddbce7c8e4f88c95a5c574a9007cef7d1b2d7937a2"
+
+[[skills]]
+slug = "slack-gif-creator"
+domain = "Slack GIF Creator - Flexible Toolkit"
+pattern_count = 9
+content_hash = "e5ce81d3dc40e7780b0fa2a0a36b5ada888beb3931d2badd2909b57c50002aed"
+
+[[skills]]
+slug = "slack-messaging"
+domain = "Slack Messaging via slackcli"
+pattern_count = 9
+content_hash = "f8833689b9ed41c46a8a62f5070bd20bc85dbd3025b4c576f51aeb7e0652f172"
+
+[[skills]]
+slug = "spreadsheet-design"
+domain = "目次スプレッドシート（インデックス）の設計思想"
+pattern_count = 11
+content_hash = "12a44e12ccee8e92160900bcdcba5b79fa6e561e794efa7d093bc4088565c60a"
+
+[[skills]]
+slug = "subagent-driven-development"
+domain = "Subagent-Driven Development"
+pattern_count = 7
+content_hash = "994b89a5d294eadd6a1611edb51377bac748d5f5fb7f4139d3c736b616b3a46a"
+
+[[skills]]
+slug = "subcontract-document"
+domain = "下請契約書スプレッドシート管理"
+pattern_count = 6
+content_hash = "9bf62b59eea95cd72ed79003dc8bac4b9093e2f01cb83a991acc48a8615ad430"
+
+[[skills]]
+slug = "systematic-debugging"
+domain = "Systematic Debugging"
+pattern_count = 11
+content_hash = "4999cb851360485eca5074e727bbdd62ef20549c5d5b01216fcbf5831badb473"
+
+[[skills]]
+slug = "tabs"
+domain = "Tabs"
+pattern_count = 1
+content_hash = "37230d313812bcb678e8a048c45b6dcf428f21f4b2427bf6555b536293081320"
+
+[[skills]]
+slug = "tailored-resume-generator"
+domain = "Tailored Resume Generator"
+pattern_count = 12
+content_hash = "7a64d9aa79a21a24f50c90a10d1a30f3c8a686d4869648e976ef69a784ba16e6"
+
+[[skills]]
+slug = "task-granularity"
+domain = "タスク粒度判定・分割スキル"
+pattern_count = 5
+content_hash = "f153ca7a36ba5c6cafda3fcae0d80836b2ab1e495b4dedaf6b0e88e675ede0f4"
+
+[[skills]]
+slug = "temperature-management-chart"
+domain = "アスファルト混合物温度管理図表"
+pattern_count = 13
+content_hash = "6ac3cbf7b1d07244f1ee8fd0847439a133389d039326bedef3a39af9362beda9"
+
+[[skills]]
+slug = "template-copy"
+domain = "Template Copy"
+pattern_count = 5
+content_hash = "25ca531610b180dda127c63038ae1c44ea539da0d0f52773a0e1f27fb81bb452"
+
+[[skills]]
+slug = "template-skill"
+domain = "Insert instructions below"
+pattern_count = 1
+content_hash = "eb685d91de039ed864fbd790cddf31684b017fd4a34ee1a55760d8d7cdbadefa"
+
+[[skills]]
+slug = "test-driven-development"
+domain = "Test-Driven Development (TDD)"
+pattern_count = 14
+content_hash = "7dee67b4af6bdccc7a914ca34533184d64592d0f5b23aeae631538168db14994"
+
+[[skills]]
+slug = "theme-factory"
+domain = "Theme Factory Skill"
+pattern_count = 6
+content_hash = "c35893e221e28895c52143cc11bf30e41a44817796b39d4b15727dadc9796552"
+
+[[skills]]
+slug = "theme-switcher"
+domain = "Theme Switcher パターン"
+pattern_count = 6
+content_hash = "993ea563e20b10af29c968b1ebf2c8b3e5d29ccfb91e68d6e46e4895c6480322"
+
+[[skills]]
+slug = "traffic-guard-report"
+domain = "交通誘導員配置実績集計表"
+pattern_count = 14
+content_hash = "da11e4b58fb606bda1d07c3f525439da71c3cbfbda24129bedc2212bac5615bb"
+
+[[skills]]
+slug = "using-git-worktrees"
+domain = "Using Git Worktrees"
+pattern_count = 9
+content_hash = "de9dcde34840eee074047ec327d4ea6ca4954c5a73a6d874dc48f25fe46c9e7c"
+
+[[skills]]
+slug = "using-superpowers"
+domain = "Using Skills"
+pattern_count = 6
+content_hash = "81d921b16502091f44e8669bbcfae74b87bbf4295d03fff70a98e81d73af60a6"
+
+[[skills]]
+slug = "using-tmux-for-interactive-commands"
+domain = "Using tmux for Interactive Commands"
+pattern_count = 8
+content_hash = "51a3f28d4d16b8847bdc5a8d42c2d9987f83bbdf68550db20b8b59b7b32c6a84"
+
+[[skills]]
+slug = "verification-before-completion"
+domain = "Verification Before Completion"
+pattern_count = 10
+content_hash = "ea52d15aabaf72bc6b558efe2c126f161b53961090ddcd712000273bfe8c7b6c"
+
+[[skills]]
+slug = "video-downloader"
+domain = "YouTube Video Downloader"
+pattern_count = 5
+content_hash = "67dc28bb7da38ad6abbb0e1500f86f619c29c236327dd8afd123c8eac606edb6"
+
+[[skills]]
+slug = "waste-disposal-contract"
+domain = "建設廃棄物処理委託契約書スプレッドシート管理"
+pattern_count = 9
+content_hash = "13d62454ea0b5a0822933d0cd9302f20d7db9d895e7ab1ac2b715678762aaff5"
+
+[[skills]]
+slug = "web-design-guidelines"
+domain = "Web Interface Guidelines"
+pattern_count = 3
+content_hash = "79a0662b91a6f3f5d4521ff8446fb83a1b3e1ff7eae8b6cd2f3800e413897790"
+
+[[skills]]
+slug = "webapp-testing"
+domain = "Web Application Testing"
+pattern_count = 6
+content_hash = "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2"
+
+[[skills]]
+slug = "weekly-report"
+domain = "通期工程表ビルダー (Weekly Report)"
+pattern_count = 8
+content_hash = "5a19abb0e207932dfe4dfd17761f784a5f8e98d730a442faf1a29c7a3a190d61"
+
+[[skills]]
+slug = "work-principles"
+domain = "作業時の基本原則"
+pattern_count = 6
+content_hash = "d9f563039dd555476967837e220a1e7d31b07cd9c6d9247d6045c90b2954ae62"
+
+[[skills]]
+slug = "writing-plans"
+domain = "Writing Plans"
+pattern_count = 6
+content_hash = "2046e5b955aa16c288f9c7290c58f237628dfb6ba6d4817fad3da0fa830b46c2"
+
+[[skills]]
+slug = "writing-skills"
+domain = "Writing Skills"
+pattern_count = 29
+content_hash = "2a12575f17509d647c8319a6adbc4a99175747737d6dc2739aca943270c76a7c"
+
+[[skills]]
+slug = "xlsx"
+domain = "Requirements for Outputs"
+pattern_count = 12
+content_hash = "020ccdb5932257b66c638ec1157ea248d57fa52c8c01f1f68b559b5970c7df35"
