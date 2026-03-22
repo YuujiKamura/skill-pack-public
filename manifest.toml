@@ -334,7 +334,7 @@ content_hash = "b3f18f147aac875fdf1f543daf3e5dfd31a5c2e9301b1aaa8612a8650c082613
 
 [[skills]]
 slug = "komine-project"
-domain = "小峯2丁目プロジェクト情報"
+domain = "サンプルプロジェクト情報"
 pattern_count = 4
 content_hash = "96e4d63d98a4f85175c8eb7d49e85b229fe3e399044e83aea96e035899ded1e9"
 
